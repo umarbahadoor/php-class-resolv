@@ -1,0 +1,11 @@
+{
+    "require": {
+        "pimple/pimple": "^3.0",
+        "phpspec/phpspec": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Uny\\" : "src/" 
+        }
+    }
+}

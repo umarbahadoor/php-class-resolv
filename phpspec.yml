@@ -1,0 +1,4 @@
+suites:
+    vanilla_suite:
+        namespace: Uny	
+        psr4_prefix: Uny
